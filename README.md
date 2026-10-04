@@ -1,7 +1,7 @@
-# AnotherBearMinecraftAddon
+# More Mobs! Addon
 Feel free to use this addon in your videos or streams! Please just link back to this page.
 
-**🐻 Another Bear Addon**
+**🐻 Another Bear!!!**
 
 Ever felt like Minecraft's forests were missing something? This lightweight addon introduces Brown Bears to your Bedrock worlds!
 
