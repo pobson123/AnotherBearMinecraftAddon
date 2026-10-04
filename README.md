@@ -13,6 +13,6 @@ Unique Drops: Instead of the usual catch, defeating a brown bear drops Brown Dye
 
 **🛠️ Installation**
 
-Download the .zip file and rename to 'AnotherBearMinecraftAddon.mcaddon', close Minecraft via Task Manager, and open the .mcaddon file to automatically install it.
+Download the .zip file, and rename to 'AnotherBearMinecraftAddon.mcaddon', close Minecraft via Task Manager, and open the .mcaddon file to automatically install it.
 Apply the pack to your world's behavior and resource pack settings.
 No experimental toggles required!
