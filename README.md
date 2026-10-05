@@ -16,6 +16,6 @@ Unique Drops: Instead of the usual catch, defeating a brown bear drops Brown Dye
 
 **🛠️ Installation**
 
-Download the .zip file, and extract it. Delete 'README.md' and 'LICENSE', then shift+right click 'More Mobs Behavior' and 'More Mobs Resources', click 'Compress to .zip', rename to 'MoreMobsMinecraftAddon-main.mcaddon'. Close Minecraft via Task Manager, and double-click the .mcaddon file to automatically install it.
+Download the .zip file, and extract it. Delete 'README.md' and 'LICENSE', then select both 'More Mobs Behavior' and 'More Mobs Resources' folders, click 'Compress to .zip', rename to 'MoreMobsMinecraftAddon-main.mcaddon'. Close Minecraft via Task Manager, and double-click the .mcaddon file to automatically install it.
 Apply the pack to your world's behavior and resource pack settings.
 No experimental toggles required!
