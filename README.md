@@ -1,5 +1,8 @@
 # More Mobs! Addon
-Feel free to use this addon in your videos or streams! Please just link back to this page.
+
+It is recommended to download the latest version from https://github.com/pobson123/moremobsminecraftaddon/releases
+
+_Feel free to use this addon in your videos or streams! Please just link back to this page._
 
 **🐻 Another Bear!!!**
 
