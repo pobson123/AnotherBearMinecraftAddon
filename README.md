@@ -1,6 +1,6 @@
 # More Mobs! Addon
 
-It is recommended to download the latest version from https://github.com/pobson123/moremobsminecraftaddon/releases
+It is recommended to download the latest version free from https://www.curseforge.com/minecraft-bedrock/addons/more-mobs-pobson123
 
 _Feel free to use this addon in your videos or streams! Please just link back to this page._
 
